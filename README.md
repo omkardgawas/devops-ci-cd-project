@@ -43,10 +43,8 @@ GitHub → Docker → AWS EC2 → Live Application
 ---
 
 ### 5️⃣ Server Configuration
-```
 sudo apt update -y
 sudo apt install docker.io git openjdk-11-jdk -y
-
 
 ### Deployment Steps
 git clone https://github.com/omkardgawas/devops-ci-cd-project.git
@@ -56,12 +54,13 @@ docker run -d -p 3000:3000 devops-app
 
 <img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/13686f7f-12ee-4110-a71e-50808be561d0" />
 
+---
 
 ### Live Application
 http://<EC2-PUBLIC-IP>:3000
 
 <img width="1918" height="925" alt="image" src="https://github.com/user-attachments/assets/95e8d1f4-e179-4c23-b5fc-627397a6a757" />
 
----
+```
 
 
