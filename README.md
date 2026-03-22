@@ -35,6 +35,7 @@ GitHub → Docker → AWS EC2 → Live Application
 - Ran container locally
 
   <img width="1792" height="67" alt="image" src="https://github.com/user-attachments/assets/0acafa2f-7841-49e8-aeb6-61b0276e19b9" />
+  
 
 ### 3️⃣ Version Control using GitHub
 - Initialized Git repository
@@ -44,6 +45,8 @@ GitHub → Docker → AWS EC2 → Live Application
 - Launched Ubuntu EC2 instance
 - Configured security groups (22, 3000)
 
+  <img width="1918" height="928" alt="image" src="https://github.com/user-attachments/assets/fbc034a9-99a3-4223-a0ad-c945c68d96f5" />
+  
 ---
 
 ### 5️⃣ Server Configuration
