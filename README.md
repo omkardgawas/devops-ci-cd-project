@@ -26,6 +26,9 @@ GitHub → Docker → AWS EC2 → Live Application
 - Built a simple Express app
 - Verified locally on port 3000
 
+  <img width="1918" height="733" alt="image" src="https://github.com/user-attachments/assets/b1e5c47e-4959-48f5-bfbf-753748f3a7df" />
+
+
 ### 2️⃣ Containerized Application
 - Created Dockerfile
 - Built Docker image
