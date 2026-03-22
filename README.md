@@ -1,4 +1,5 @@
-# 🚀 DevOps CI/CD Pipeline Project
+# 🚀 DevOps CI/CD Project
+End-to-end DevOps pipeline using Docker and AWS EC2 with automated deployment workflow.
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end DevOps pipeline where a Node.js application is containerized using Docker and deployed on AWS EC2.
@@ -63,9 +64,9 @@ http://3.234.146.178:3000/
 
 --- 
 ## 🎯 Key Achievements
-- Built end-to-end CI/CD pipeline using Docker and AWS
-- Automated deployment reducing manual effort by 80%
-- Deployed scalable containerized application on cloud
+- Built and deployed a containerized application using Docker and AWS EC2
+- Reduced manual deployment effort through containerization
+- Designed a scalable and reproducible deployment workflow
 
 ---
 
