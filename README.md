@@ -30,6 +30,9 @@ GitHub → Docker → AWS EC2 → Live Application
 - Built Docker image
 - Ran container locally
 
+  <img width="1792" height="67" alt="image" src="https://github.com/user-attachments/assets/0acafa2f-7841-49e8-aeb6-61b0276e19b9" />
+
+
 ### 3️⃣ Version Control using GitHub
 - Initialized Git repository
 - Pushed code to GitHub
@@ -50,5 +53,11 @@ cd devops-ci-cd-project
 docker build -t devops-app .
 docker run -d -p 3000:3000 devops-app
 
+<img width="1916" height="1017" alt="image" src="https://github.com/user-attachments/assets/13686f7f-12ee-4110-a71e-50808be561d0" />
+
+
 ### Live Application
 http://<EC2-PUBLIC-IP>:3000
+
+<img width="1918" height="925" alt="image" src="https://github.com/user-attachments/assets/95e8d1f4-e179-4c23-b5fc-627397a6a757" />
+
