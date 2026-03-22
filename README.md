@@ -32,7 +32,6 @@ GitHub → Docker → AWS EC2 → Live Application
 
   <img width="1792" height="67" alt="image" src="https://github.com/user-attachments/assets/0acafa2f-7841-49e8-aeb6-61b0276e19b9" />
 
-
 ### 3️⃣ Version Control using GitHub
 - Initialized Git repository
 - Pushed code to GitHub
@@ -41,8 +40,10 @@ GitHub → Docker → AWS EC2 → Live Application
 - Launched Ubuntu EC2 instance
 - Configured security groups (22, 3000)
 
+---
+
 ### 5️⃣ Server Configuration
-```bash
+```
 sudo apt update -y
 sudo apt install docker.io git openjdk-11-jdk -y
 
@@ -60,4 +61,7 @@ docker run -d -p 3000:3000 devops-app
 http://<EC2-PUBLIC-IP>:3000
 
 <img width="1918" height="925" alt="image" src="https://github.com/user-attachments/assets/95e8d1f4-e179-4c23-b5fc-627397a6a757" />
+
+---
+
 
