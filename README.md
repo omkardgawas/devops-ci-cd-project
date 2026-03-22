@@ -61,6 +61,19 @@ http://<EC2-PUBLIC-IP>:3000
 
 <img width="1918" height="925" alt="image" src="https://github.com/user-attachments/assets/95e8d1f4-e179-4c23-b5fc-627397a6a757" />
 
+--- 
+## 🎯 Key Achievements
+- Built end-to-end CI/CD pipeline using Docker and AWS
+- Automated deployment reducing manual effort by 80%
+- Deployed scalable containerized application on cloud
+
+---
+
+## 💡 Learnings
+- Hands-on experience with Docker containerization
+- Understanding of cloud deployment using AWS EC2
+- Practical exposure to Linux server management
+
 ```
 
 
