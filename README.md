@@ -57,7 +57,7 @@ docker run -d -p 3000:3000 devops-app
 ---
 
 ### Live Application
-http://<EC2-PUBLIC-IP>:3000](http://3.234.146.178:3000/
+http://3.234.146.178:3000/
 
 <img width="1918" height="925" alt="image" src="https://github.com/user-attachments/assets/95e8d1f4-e179-4c23-b5fc-627397a6a757" />
 
