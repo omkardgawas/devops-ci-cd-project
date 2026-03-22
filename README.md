@@ -41,6 +41,9 @@ GitHub → Docker → AWS EC2 → Live Application
 - Initialized Git repository
 - Pushed code to GitHub
 
+  <img width="1412" height="706" alt="image" src="https://github.com/user-attachments/assets/c679bc57-a54e-4397-a278-eb3a260b5037" />
+
+
 ### 4️⃣ AWS EC2 Setup
 - Launched Ubuntu EC2 instance
 - Configured security groups (22, 3000)
