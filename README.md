@@ -84,6 +84,5 @@ http://3.234.146.178:3000/
 - Understanding of cloud deployment using AWS EC2
 - Practical exposure to Linux server management
 
-```
 
 
